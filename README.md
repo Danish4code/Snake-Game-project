@@ -17,7 +17,7 @@ CSS3
 JavaScript (Vanilla JS)
 
 Live Demo
-https://snake-game-project-danish4codes-projects.vercel.app/
+https://snake-game-project-topaz.vercel.app/
 
 👨‍💻 Author
 Made by Danish
